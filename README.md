@@ -14,11 +14,19 @@ AIS VPN does not gather any usage data, browsing history, or connection logs. Yo
 
 ## 3. App Info and Performance Data
 
-We collect diagnostic information about the integrity of the AIS VPN app and the operating system. This may include details about the app's behavior, such as rooting, running in an emulator, hooking framework usage, and other app-related information. This data helps us ensure the proper functioning and security of the app.
+For the purpose of fraud prevention, user safety, and compliance, the dedicated App safety SDK needs to send the following anonymous diagnostic data off the device for detection of security issues. Thus, the application collects the following data:
+
+**Category:** App info and performance  
+**Data Type:** Diagnostics  
+**Description:** Information about the integrity of the app and the operating system. For example, rooting, running in an emulator, hooking framework usage, etc...
 
 ## 4. Device or Other Identifiers
 
-We may collect device-related information, such as the device model and an anonymous identifier, to control the app instance's execution on the original device where it was initially installed. This measure is necessary to combat threats like bots and API abuse, enhancing the security of our services.
+For the purpose of fraud prevention, user safety, and compliance, we may collect device-related information, such as the device model and an anonymous identifier. This is used to control the app instance's execution on the original device where it was initially installed. It is necessary to combat threats like bots and API abuse, enhancing the security of our services.
+
+**Category:** Device or other identifiers  
+**Data Type:** Device or other identifiers  
+**Description:** Information that relates to an individual device. For example, a device model and anonymous identifier to control that app instance executed on the original device that it was initially installed on. It is needed to combat threats like bots and API abuse.
 
 ## 5. Third-Party Services
 
