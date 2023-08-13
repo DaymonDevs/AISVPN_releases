@@ -1,4 +1,4 @@
-# Privacy Policy for AIS VPN App
+# Privacy Policy for AIS VPN
 
 **Effective Date: August 13, 2023**
 
