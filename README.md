@@ -1,4 +1,4 @@
-# Privacy Policy for AIS VPN
+# Privacy Policy for AIS VPN App
 
 **Effective Date: August 13, 2023**
 
@@ -14,15 +14,11 @@ We may collect certain personal information when you use the App, including but 
 - Your email address: We collect your email address when you create an account with us.
 - Payment information: If you make in-app purchases, we may collect payment information to process transactions securely.
 
-### 2.2 Usage Data
-
-We may also collect non-personal information that your device sends whenever you use the App ("Usage Data"). This Usage Data may include information such as your device's Internet Protocol address (e.g., IP address), device type, operating system version, the pages of the App that you visit, the time and date of your visit, the time spent on those pages, and other diagnostic data.
-
-### 2.3 App Info and Performance (Diagnostics)
+### 2.2 App Info and Performance (Diagnostics)
 
 We may collect information about the integrity of the App and the operating system for diagnostic purposes. This may include details such as rooting, running in an emulator, hooking framework usage, and other similar information that helps us ensure the proper functioning and security of the App.
 
-### 2.4 Device or Other Identifiers
+### 2.3 Device or Other Identifiers
 
 We may collect information related to individual devices to combat threats like bots and API abuse. This may include device identifiers such as a device model and an anonymous identifier. These identifiers are used to control app instances executed on the original device on which the app was initially installed.
 
@@ -49,4 +45,4 @@ We reserve the right to update our Privacy Policy from time to time. Thus, we ad
 
 ## 7. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at daymondevs@e.email.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [daymondevs@e.email](mailto:daymondevs@e.email).
