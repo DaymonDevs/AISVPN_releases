@@ -8,17 +8,11 @@ Welcome to AIS VPN ("us", "we", or "our"). This privacy policy outlines how we c
 
 ## 2. Information We Collect
 
-### 2.1 Personal Information
-
-We may collect certain personal information when you use the App, including but not limited to:
-- Your email address: We collect your email address when you create an account with us.
-- Payment information: If you make in-app purchases, we may collect payment information to process transactions securely.
-
-### 2.2 App Info and Performance (Diagnostics)
+### 2.1 App Info and Performance (Diagnostics)
 
 We may collect information about the integrity of the App and the operating system for diagnostic purposes. This may include details such as rooting, running in an emulator, hooking framework usage, and other similar information that helps us ensure the proper functioning and security of the App.
 
-### 2.3 Device or Other Identifiers
+### 2.2 Device or Other Identifiers
 
 We may collect information related to individual devices to combat threats like bots and API abuse. This may include device identifiers such as a device model and an anonymous identifier. These identifiers are used to control app instances executed on the original device on which the app was initially installed.
 
